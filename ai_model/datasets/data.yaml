@@ -1,0 +1,16 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 9
+
+names:
+  - gloves
+  - helmet
+  - no-gloves
+  - no-helmet
+  - no-shoes
+  - no-vest
+  - person
+  - shoes
+  - vest
